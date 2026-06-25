@@ -1,0 +1,2676 @@
+{
+  "id": "paranaue",
+  "nome": "Paranauê",
+  "arquivo": "assets/music/paranaue.ogg",
+  "offset": 0.0,
+  "bpm_estimado": 117.45,
+  "duracao": 268.044,
+  "notas": [
+    {
+      "tempo": 1.068,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 1.556,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 2.078,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 2.589,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 3.077,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 3.622,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 4.11,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 4.644,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 5.132,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 5.666,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 6.165,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 6.676,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 7.187,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 7.697,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 8.197,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 8.707,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 9.218,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 9.729,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 10.228,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 10.751,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 11.262,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 11.517,
+      "faixa": 2,
+      "origem": "onset",
+      "forca": 0.785
+    },
+    {
+      "tempo": 11.784,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 12.295,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 12.817,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 13.061,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.573
+    },
+    {
+      "tempo": 13.328,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 13.839,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 14.338,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 14.849,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 15.348,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 15.871,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 16.358,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 16.869,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 17.38,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 17.891,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 18.379,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 18.901,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 19.412,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 19.934,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 20.434,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 20.944,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 21.444,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 21.966,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 22.465,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 22.976,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 23.475,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 23.986,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 24.485,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 24.741,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.681
+    },
+    {
+      "tempo": 25.008,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 25.507,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 26.018,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 26.517,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 27.028,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 27.539,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 28.038,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 28.549,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 29.06,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 29.559,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 30.058,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 30.557,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 31.068,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 31.568,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 32.078,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 32.589,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 33.1,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 33.599,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 34.11,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 34.609,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 35.132,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 35.631,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 36.153,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 36.653,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 37.164,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 37.674,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 38.197,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 38.696,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 39.219,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 39.706,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 40.217,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 40.716,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 41.227,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 41.726,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 42.249,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 42.748,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 43.27,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 43.781,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 44.28,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 44.791,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 45.291,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 45.801,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 46.312,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 46.811,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 47.334,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 47.833,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 48.344,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 48.855,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 49.366,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 49.865,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 50.376,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 50.62,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.708
+    },
+    {
+      "tempo": 50.887,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 51.397,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 51.908,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 52.396,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 52.93,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 53.452,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 53.975,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 54.497,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 55.008,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 55.531,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 56.053,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 56.575,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 57.075,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 57.318,
+      "faixa": 2,
+      "origem": "onset",
+      "forca": 0.844
+    },
+    {
+      "tempo": 57.609,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 58.131,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 58.654,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 59.164,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 59.687,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 60.198,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 60.72,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 61.243,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 61.753,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 62.276,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 62.787,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 63.298,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 63.82,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 64.342,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 64.853,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 65.376,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 65.631,
+      "faixa": 2,
+      "origem": "onset",
+      "forca": 0.835
+    },
+    {
+      "tempo": 65.898,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 66.409,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 66.955,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 67.466,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 67.988,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 68.51,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 69.021,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 69.544,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 70.066,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 70.577,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 71.111,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 71.599,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 72.133,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 72.644,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 72.864,
+      "faixa": 3,
+      "origem": "onset",
+      "forca": 0.773
+    },
+    {
+      "tempo": 73.154,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 73.677,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 74.211,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 74.71,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 75.256,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 75.767,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 76.289,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 76.521,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.577
+    },
+    {
+      "tempo": 76.8,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 77.322,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 77.833,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 78.344,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 78.867,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 79.11,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.576
+    },
+    {
+      "tempo": 79.389,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 79.9,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 80.422,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 80.945,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 81.165,
+      "faixa": 2,
+      "origem": "onset",
+      "forca": 0.881
+    },
+    {
+      "tempo": 81.456,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 81.966,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 82.477,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 83.0,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 83.522,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 84.021,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 84.544,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 85.066,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 85.577,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 86.076,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 86.576,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 87.086,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 87.597,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 88.108,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 88.329,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.672
+    },
+    {
+      "tempo": 88.619,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 89.13,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 89.652,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 90.151,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 90.662,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 91.173,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 91.707,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 92.206,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 92.717,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 93.251,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 93.751,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 94.273,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 94.784,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 95.318,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 95.84,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 96.107,
+      "faixa": 3,
+      "origem": "onset",
+      "forca": 0.55
+    },
+    {
+      "tempo": 96.363,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 96.885,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 97.419,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 97.953,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 98.453,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 98.696,
+      "faixa": 2,
+      "origem": "onset",
+      "forca": 0.817
+    },
+    {
+      "tempo": 98.975,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 99.486,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 99.997,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 100.508,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 101.03,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 101.541,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 102.063,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 102.563,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 103.097,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 103.596,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 104.118,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 104.629,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 105.14,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 105.662,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 106.162,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 106.672,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 107.207,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 107.706,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 108.228,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 108.727,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 109.25,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 109.772,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 110.283,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 110.794,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 111.305,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 111.827,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 112.35,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 112.861,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 113.395,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 113.929,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 114.428,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 114.95,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 115.461,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 115.984,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 116.518,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 117.017,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 117.551,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 118.073,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 118.584,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 119.107,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 119.606,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 120.128,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 120.651,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 121.173,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 121.696,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 122.218,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 122.729,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 123.252,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 123.774,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 124.285,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 124.807,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 125.318,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 125.841,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 126.363,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 126.885,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 127.396,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 127.896,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 128.418,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 128.94,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 129.451,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 129.962,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 130.485,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 131.019,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 131.518,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 132.052,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 132.563,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 133.097,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 133.608,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 134.118,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 134.641,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 135.152,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 135.686,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 136.208,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 136.719,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 137.253,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 137.764,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 138.321,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 138.832,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 139.378,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 139.889,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 140.399,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 140.922,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 141.444,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 141.955,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 142.478,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 143.012,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 143.534,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 144.045,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 144.556,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 145.09,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 145.334,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.675
+    },
+    {
+      "tempo": 145.612,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 146.112,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 146.646,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 147.168,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 147.702,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 148.201,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 148.724,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 149.246,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 149.78,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 150.291,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 150.814,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 151.324,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 151.58,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.633
+    },
+    {
+      "tempo": 151.87,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 152.393,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 152.915,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 153.437,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 153.67,
+      "faixa": 3,
+      "origem": "onset",
+      "forca": 0.64
+    },
+    {
+      "tempo": 153.972,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 154.482,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 155.005,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 155.527,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 156.05,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 156.561,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 157.071,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 157.594,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 158.116,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 158.616,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 159.15,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 159.66,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 160.183,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 160.694,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 161.228,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 161.727,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 162.249,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 162.76,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 163.283,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 163.805,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 164.339,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 164.85,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 165.373,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 165.883,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 166.429,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 166.963,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 167.497,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 168.031,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 168.565,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 169.088,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 169.61,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 170.133,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 170.667,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 171.189,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 171.723,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 172.246,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 172.791,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 173.314,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 173.825,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 174.335,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 174.881,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 175.404,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 175.914,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 176.425,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 176.936,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 177.435,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 177.958,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 178.469,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 178.991,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 179.49,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 180.013,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 180.512,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 181.034,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 181.568,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 182.056,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 182.602,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 183.113,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 183.623,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 184.146,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 184.645,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 185.168,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 185.678,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 185.934,
+      "faixa": 3,
+      "origem": "onset",
+      "forca": 0.605
+    },
+    {
+      "tempo": 186.201,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 186.7,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 187.222,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 187.733,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 188.244,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 188.755,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 189.277,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 189.812,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 190.322,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 190.833,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 191.367,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 191.89,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 192.122,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.718
+    },
+    {
+      "tempo": 192.412,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 192.911,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 193.457,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 193.968,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 194.49,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 195.001,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 195.512,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 196.046,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 196.58,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 197.091,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 197.637,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 198.147,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 198.682,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 199.192,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 199.703,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 200.214,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 200.737,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 200.922,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.572
+    },
+    {
+      "tempo": 201.236,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 201.747,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 202.257,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 202.49,
+      "faixa": 3,
+      "origem": "onset",
+      "forca": 0.639
+    },
+    {
+      "tempo": 202.78,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 203.279,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 203.802,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 204.301,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 204.812,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 205.311,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 205.822,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 206.309,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 206.832,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 207.331,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 207.853,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 208.353,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 208.562,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.567
+    },
+    {
+      "tempo": 208.875,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 209.363,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 209.885,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 210.384,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 210.895,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 211.394,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 211.905,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 212.416,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 212.939,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 213.426,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 213.949,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 214.448,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 214.97,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 215.47,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 215.98,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 216.491,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 217.002,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 217.513,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 217.989,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 218.523,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 219.057,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 219.568,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 220.09,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 220.601,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 221.135,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 221.658,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 222.169,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 222.679,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 223.213,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 223.736,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 224.258,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 224.769,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 225.28,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 225.802,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 226.325,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 226.836,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 227.358,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 227.869,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 228.391,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 228.902,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 229.413,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 229.936,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 230.458,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 230.969,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 231.491,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 232.002,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 232.536,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 233.059,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 233.581,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 234.104,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 234.626,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 235.137,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 235.659,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 236.17,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 236.704,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 237.203,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 237.726,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 238.248,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 238.759,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 239.282,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 239.816,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 240.338,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 240.849,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 241.371,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 241.894,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 242.416,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 242.927,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 243.438,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 243.949,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 244.46,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 244.994,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 245.505,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 246.027,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 246.549,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 247.06,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 247.56,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 248.082,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 248.593,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 249.115,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 249.626,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 250.149,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 250.671,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 251.182,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 251.681,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 252.18,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 252.691,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 253.202,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 253.701,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 254.224,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 254.723,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 255.245,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 255.745,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 256.267,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 256.778,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 257.289,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 257.823,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 258.334,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 258.856,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 259.367,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 259.889,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 260.412,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 260.946,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 261.468,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 261.991,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 262.525,
+      "faixa": 0,
+      "origem": "beat"
+    }
+  ]
+}

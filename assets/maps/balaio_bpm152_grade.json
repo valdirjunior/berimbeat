@@ -1,0 +1,1353 @@
+{
+  "id": "balaio",
+  "nome": "Balaio de Café",
+  "arquivo": "assets/music/balaio_de_cafe.ogg",
+  "offset": 0.0,
+  "ferramenta": "bpm_fixo",
+  "variante": "bpm152_grade",
+  "bpm": 152.0,
+  "inicio_jogavel": 2.8,
+  "duracao": 143.752,
+  "notas": [
+    {
+      "tempo": 2.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 3.195,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 3.984,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 4.379,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 5.168,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 5.563,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 5.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 6.353,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 7.142,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 7.537,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 8.326,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 8.721,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 9.116,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 9.511,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 10.3,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 10.695,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 11.484,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 11.879,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 12.274,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 12.668,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 13.458,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 13.853,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 14.642,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 15.037,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 15.432,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 15.826,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 16.616,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 17.011,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 17.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 18.195,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 18.589,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 18.984,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 19.774,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 20.168,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 20.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 21.353,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 21.747,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 22.142,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 22.932,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 23.326,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 24.116,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 24.511,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 24.905,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 25.3,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 26.089,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 26.484,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 27.274,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 27.668,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 28.063,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 28.458,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 29.247,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 29.642,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 30.432,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 30.826,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 31.221,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 31.616,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 32.405,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 32.8,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 33.589,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 33.984,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 34.379,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 34.774,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 35.563,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 35.958,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 36.747,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 37.142,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 37.537,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 37.932,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 38.721,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 39.116,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 39.905,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 40.3,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 40.695,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 41.089,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 41.879,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 42.274,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 43.063,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 43.458,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 43.853,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 44.247,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 45.037,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 45.432,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 46.221,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 46.616,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 47.011,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 47.405,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 48.195,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 48.589,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 49.379,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 49.774,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 50.168,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 50.563,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 51.353,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 51.747,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 52.537,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 52.932,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 53.326,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 53.721,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 54.511,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 54.905,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 55.695,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 56.089,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 56.484,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 56.879,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 57.668,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 58.063,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 58.853,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 59.247,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 59.642,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 60.037,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 60.826,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 61.221,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 62.011,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 62.405,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 62.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 63.195,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 63.984,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 64.379,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 65.168,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 65.563,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 65.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 66.353,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 67.142,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 67.537,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 68.326,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 68.721,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 69.116,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 69.511,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 70.3,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 70.695,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 71.484,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 71.879,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 72.274,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 72.668,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 73.458,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 73.853,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 74.642,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 75.037,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 75.432,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 75.826,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 76.616,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 77.011,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 77.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 78.195,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 78.589,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 78.984,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 79.774,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 80.168,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 80.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 81.353,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 81.747,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 82.142,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 82.932,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 83.326,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 84.116,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 84.511,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 84.905,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 85.3,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 86.089,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 86.484,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 87.274,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 87.668,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 88.063,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 88.458,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 89.247,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 89.642,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 90.432,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 90.826,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 91.221,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 91.616,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 92.405,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 92.8,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 93.589,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 93.984,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 94.379,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 94.774,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 95.563,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 95.958,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 96.747,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 97.142,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 97.537,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 97.932,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 98.721,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 99.116,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 99.905,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 100.3,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 100.695,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 101.089,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 101.879,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 102.274,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 103.063,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 103.458,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 103.853,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 104.247,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 105.037,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 105.432,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 106.221,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 106.616,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 107.011,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 107.405,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 108.195,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 108.589,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 109.379,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 109.774,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 110.168,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 110.563,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 111.353,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 111.747,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 112.537,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 112.932,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 113.326,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 113.721,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 114.511,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 114.905,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 115.695,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 116.089,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 116.484,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 116.879,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 117.668,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 118.063,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 118.853,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 119.247,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 119.642,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 120.037,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 120.826,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 121.221,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 122.011,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 122.405,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 122.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 123.195,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 123.984,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 124.379,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 125.168,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 125.563,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 125.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 126.353,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 127.142,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 127.537,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 128.326,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 128.721,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 129.116,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 129.511,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 130.3,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 130.695,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 131.484,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 131.879,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 132.274,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 132.668,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 133.458,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 133.853,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 134.642,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 135.037,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 135.432,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 135.826,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 136.616,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 137.011,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 137.8,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 138.195,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 138.589,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 138.984,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 139.774,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 140.168,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 140.958,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 141.353,
+      "faixa": 2,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 141.747,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 142.142,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 142.932,
+      "faixa": 0,
+      "origem": "bpm152_grade"
+    },
+    {
+      "tempo": 143.326,
+      "faixa": 1,
+      "origem": "bpm152_grade"
+    }
+  ]
+}

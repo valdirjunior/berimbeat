@@ -1,0 +1,333 @@
+{
+  "id": "demo_facil",
+  "nome": "Demo Fácil",
+  "arquivo": "",
+  "offset": 0.0,
+  "variante": "demo_facil_v2",
+  "notas": [
+    {
+      "tempo": 1.2,
+      "faixa": 0
+    },
+    {
+      "tempo": 1.98,
+      "faixa": 1
+    },
+    {
+      "tempo": 2.76,
+      "faixa": 2
+    },
+    {
+      "tempo": 3.54,
+      "faixa": 0
+    },
+    {
+      "tempo": 4.32,
+      "faixa": 2
+    },
+    {
+      "tempo": 5.1,
+      "faixa": 1
+    },
+    {
+      "tempo": 5.88,
+      "faixa": 0
+    },
+    {
+      "tempo": 6.66,
+      "faixa": 1
+    },
+    {
+      "tempo": 6.94,
+      "faixa": 2
+    },
+    {
+      "tempo": 7.44,
+      "faixa": 2
+    },
+    {
+      "tempo": 8.22,
+      "faixa": 1
+    },
+    {
+      "tempo": 9.0,
+      "faixa": 0
+    },
+    {
+      "tempo": 9.78,
+      "faixa": 2
+    },
+    {
+      "tempo": 10.56,
+      "faixa": 0
+    },
+    {
+      "tempo": 11.34,
+      "faixa": 1
+    },
+    {
+      "tempo": 12.12,
+      "faixa": 2
+    },
+    {
+      "tempo": 12.9,
+      "faixa": 0
+    },
+    {
+      "tempo": 13.68,
+      "faixa": 2
+    },
+    {
+      "tempo": 14.46,
+      "faixa": 1
+    },
+    {
+      "tempo": 15.24,
+      "faixa": 0
+    },
+    {
+      "tempo": 16.02,
+      "faixa": 1
+    },
+    {
+      "tempo": 16.8,
+      "faixa": 2
+    },
+    {
+      "tempo": 17.58,
+      "faixa": 1
+    },
+    {
+      "tempo": 18.36,
+      "faixa": 0
+    },
+    {
+      "tempo": 19.14,
+      "faixa": 2
+    },
+    {
+      "tempo": 19.42,
+      "faixa": 0
+    },
+    {
+      "tempo": 19.92,
+      "faixa": 0
+    },
+    {
+      "tempo": 20.7,
+      "faixa": 1
+    },
+    {
+      "tempo": 21.48,
+      "faixa": 2
+    },
+    {
+      "tempo": 22.26,
+      "faixa": 0
+    },
+    {
+      "tempo": 23.04,
+      "faixa": 2
+    },
+    {
+      "tempo": 23.82,
+      "faixa": 1
+    },
+    {
+      "tempo": 24.6,
+      "faixa": 0
+    },
+    {
+      "tempo": 25.38,
+      "faixa": 1
+    },
+    {
+      "tempo": 26.16,
+      "faixa": 2
+    },
+    {
+      "tempo": 26.94,
+      "faixa": 1
+    },
+    {
+      "tempo": 27.72,
+      "faixa": 0
+    },
+    {
+      "tempo": 28.5,
+      "faixa": 2
+    },
+    {
+      "tempo": 29.28,
+      "faixa": 0
+    },
+    {
+      "tempo": 30.06,
+      "faixa": 1
+    },
+    {
+      "tempo": 30.84,
+      "faixa": 2
+    },
+    {
+      "tempo": 31.62,
+      "faixa": 0
+    },
+    {
+      "tempo": 31.9,
+      "faixa": 1
+    },
+    {
+      "tempo": 32.4,
+      "faixa": 2
+    },
+    {
+      "tempo": 33.18,
+      "faixa": 1
+    },
+    {
+      "tempo": 33.96,
+      "faixa": 0
+    },
+    {
+      "tempo": 34.74,
+      "faixa": 1
+    },
+    {
+      "tempo": 35.52,
+      "faixa": 2
+    },
+    {
+      "tempo": 36.3,
+      "faixa": 1
+    },
+    {
+      "tempo": 37.08,
+      "faixa": 0
+    },
+    {
+      "tempo": 37.86,
+      "faixa": 2
+    },
+    {
+      "tempo": 38.64,
+      "faixa": 0
+    },
+    {
+      "tempo": 39.42,
+      "faixa": 1
+    },
+    {
+      "tempo": 40.2,
+      "faixa": 2
+    },
+    {
+      "tempo": 40.98,
+      "faixa": 0
+    },
+    {
+      "tempo": 41.76,
+      "faixa": 2
+    },
+    {
+      "tempo": 42.54,
+      "faixa": 1
+    },
+    {
+      "tempo": 43.32,
+      "faixa": 0
+    },
+    {
+      "tempo": 44.1,
+      "faixa": 1
+    },
+    {
+      "tempo": 44.38,
+      "faixa": 2
+    },
+    {
+      "tempo": 44.88,
+      "faixa": 2
+    },
+    {
+      "tempo": 45.66,
+      "faixa": 1
+    },
+    {
+      "tempo": 46.44,
+      "faixa": 0
+    },
+    {
+      "tempo": 47.22,
+      "faixa": 2
+    },
+    {
+      "tempo": 48.0,
+      "faixa": 0
+    },
+    {
+      "tempo": 48.78,
+      "faixa": 1
+    },
+    {
+      "tempo": 49.56,
+      "faixa": 2
+    },
+    {
+      "tempo": 50.34,
+      "faixa": 0
+    },
+    {
+      "tempo": 51.12,
+      "faixa": 2
+    },
+    {
+      "tempo": 51.9,
+      "faixa": 1
+    },
+    {
+      "tempo": 52.68,
+      "faixa": 0
+    },
+    {
+      "tempo": 53.46,
+      "faixa": 1
+    },
+    {
+      "tempo": 54.24,
+      "faixa": 2
+    },
+    {
+      "tempo": 55.02,
+      "faixa": 1
+    },
+    {
+      "tempo": 55.8,
+      "faixa": 0
+    },
+    {
+      "tempo": 56.58,
+      "faixa": 2
+    },
+    {
+      "tempo": 56.86,
+      "faixa": 0
+    },
+    {
+      "tempo": 57.36,
+      "faixa": 0
+    },
+    {
+      "tempo": 58.14,
+      "faixa": 1
+    },
+    {
+      "tempo": 58.92,
+      "faixa": 2
+    },
+    {
+      "tempo": 59.7,
+      "faixa": 0
+    }
+  ]
+}

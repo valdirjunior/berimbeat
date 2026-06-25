@@ -1,0 +1,549 @@
+{
+  "id": "demo_medio",
+  "nome": "Demo Média",
+  "arquivo": "",
+  "offset": 0.0,
+  "variante": "demo_medio_v2",
+  "notas": [
+    {
+      "tempo": 1.0,
+      "faixa": 0
+    },
+    {
+      "tempo": 1.58,
+      "faixa": 1
+    },
+    {
+      "tempo": 2.16,
+      "faixa": 2
+    },
+    {
+      "tempo": 2.74,
+      "faixa": 1
+    },
+    {
+      "tempo": 2.74,
+      "faixa": 0
+    },
+    {
+      "tempo": 3.32,
+      "faixa": 0
+    },
+    {
+      "tempo": 3.9,
+      "faixa": 2
+    },
+    {
+      "tempo": 4.48,
+      "faixa": 0
+    },
+    {
+      "tempo": 4.48,
+      "faixa": 1
+    },
+    {
+      "tempo": 5.06,
+      "faixa": 1
+    },
+    {
+      "tempo": 5.64,
+      "faixa": 2
+    },
+    {
+      "tempo": 6.22,
+      "faixa": 0
+    },
+    {
+      "tempo": 6.44,
+      "faixa": 2
+    },
+    {
+      "tempo": 6.8,
+      "faixa": 2
+    },
+    {
+      "tempo": 7.38,
+      "faixa": 1
+    },
+    {
+      "tempo": 7.38,
+      "faixa": 0
+    },
+    {
+      "tempo": 7.96,
+      "faixa": 1
+    },
+    {
+      "tempo": 8.54,
+      "faixa": 0
+    },
+    {
+      "tempo": 9.12,
+      "faixa": 2
+    },
+    {
+      "tempo": 9.12,
+      "faixa": 0
+    },
+    {
+      "tempo": 9.7,
+      "faixa": 1
+    },
+    {
+      "tempo": 10.28,
+      "faixa": 0
+    },
+    {
+      "tempo": 10.86,
+      "faixa": 1
+    },
+    {
+      "tempo": 11.44,
+      "faixa": 2
+    },
+    {
+      "tempo": 12.02,
+      "faixa": 1
+    },
+    {
+      "tempo": 12.02,
+      "faixa": 0
+    },
+    {
+      "tempo": 12.6,
+      "faixa": 0
+    },
+    {
+      "tempo": 13.18,
+      "faixa": 2
+    },
+    {
+      "tempo": 13.4,
+      "faixa": 1
+    },
+    {
+      "tempo": 13.76,
+      "faixa": 0
+    },
+    {
+      "tempo": 13.76,
+      "faixa": 1
+    },
+    {
+      "tempo": 14.34,
+      "faixa": 1
+    },
+    {
+      "tempo": 14.92,
+      "faixa": 2
+    },
+    {
+      "tempo": 15.5,
+      "faixa": 0
+    },
+    {
+      "tempo": 16.08,
+      "faixa": 2
+    },
+    {
+      "tempo": 16.66,
+      "faixa": 1
+    },
+    {
+      "tempo": 16.66,
+      "faixa": 0
+    },
+    {
+      "tempo": 17.24,
+      "faixa": 1
+    },
+    {
+      "tempo": 17.82,
+      "faixa": 0
+    },
+    {
+      "tempo": 18.4,
+      "faixa": 2
+    },
+    {
+      "tempo": 18.4,
+      "faixa": 0
+    },
+    {
+      "tempo": 18.98,
+      "faixa": 1
+    },
+    {
+      "tempo": 19.56,
+      "faixa": 0
+    },
+    {
+      "tempo": 20.14,
+      "faixa": 1
+    },
+    {
+      "tempo": 20.36,
+      "faixa": 0
+    },
+    {
+      "tempo": 20.72,
+      "faixa": 2
+    },
+    {
+      "tempo": 21.3,
+      "faixa": 1
+    },
+    {
+      "tempo": 21.3,
+      "faixa": 0
+    },
+    {
+      "tempo": 21.88,
+      "faixa": 0
+    },
+    {
+      "tempo": 22.46,
+      "faixa": 2
+    },
+    {
+      "tempo": 23.04,
+      "faixa": 0
+    },
+    {
+      "tempo": 23.04,
+      "faixa": 1
+    },
+    {
+      "tempo": 23.62,
+      "faixa": 1
+    },
+    {
+      "tempo": 24.2,
+      "faixa": 2
+    },
+    {
+      "tempo": 24.78,
+      "faixa": 0
+    },
+    {
+      "tempo": 25.36,
+      "faixa": 2
+    },
+    {
+      "tempo": 25.94,
+      "faixa": 1
+    },
+    {
+      "tempo": 25.94,
+      "faixa": 0
+    },
+    {
+      "tempo": 26.52,
+      "faixa": 1
+    },
+    {
+      "tempo": 27.1,
+      "faixa": 0
+    },
+    {
+      "tempo": 27.32,
+      "faixa": 2
+    },
+    {
+      "tempo": 27.68,
+      "faixa": 2
+    },
+    {
+      "tempo": 27.68,
+      "faixa": 0
+    },
+    {
+      "tempo": 28.26,
+      "faixa": 1
+    },
+    {
+      "tempo": 28.84,
+      "faixa": 0
+    },
+    {
+      "tempo": 29.42,
+      "faixa": 1
+    },
+    {
+      "tempo": 30.0,
+      "faixa": 2
+    },
+    {
+      "tempo": 30.58,
+      "faixa": 1
+    },
+    {
+      "tempo": 30.58,
+      "faixa": 0
+    },
+    {
+      "tempo": 31.16,
+      "faixa": 0
+    },
+    {
+      "tempo": 31.74,
+      "faixa": 2
+    },
+    {
+      "tempo": 32.32,
+      "faixa": 0
+    },
+    {
+      "tempo": 32.32,
+      "faixa": 1
+    },
+    {
+      "tempo": 32.9,
+      "faixa": 1
+    },
+    {
+      "tempo": 33.48,
+      "faixa": 2
+    },
+    {
+      "tempo": 34.06,
+      "faixa": 0
+    },
+    {
+      "tempo": 34.28,
+      "faixa": 2
+    },
+    {
+      "tempo": 34.64,
+      "faixa": 2
+    },
+    {
+      "tempo": 35.22,
+      "faixa": 1
+    },
+    {
+      "tempo": 35.22,
+      "faixa": 0
+    },
+    {
+      "tempo": 35.8,
+      "faixa": 1
+    },
+    {
+      "tempo": 36.38,
+      "faixa": 0
+    },
+    {
+      "tempo": 36.96,
+      "faixa": 2
+    },
+    {
+      "tempo": 36.96,
+      "faixa": 0
+    },
+    {
+      "tempo": 37.54,
+      "faixa": 1
+    },
+    {
+      "tempo": 38.12,
+      "faixa": 0
+    },
+    {
+      "tempo": 38.7,
+      "faixa": 1
+    },
+    {
+      "tempo": 39.28,
+      "faixa": 2
+    },
+    {
+      "tempo": 39.86,
+      "faixa": 1
+    },
+    {
+      "tempo": 39.86,
+      "faixa": 0
+    },
+    {
+      "tempo": 40.44,
+      "faixa": 0
+    },
+    {
+      "tempo": 41.02,
+      "faixa": 2
+    },
+    {
+      "tempo": 41.24,
+      "faixa": 1
+    },
+    {
+      "tempo": 41.6,
+      "faixa": 0
+    },
+    {
+      "tempo": 41.6,
+      "faixa": 1
+    },
+    {
+      "tempo": 42.18,
+      "faixa": 1
+    },
+    {
+      "tempo": 42.76,
+      "faixa": 2
+    },
+    {
+      "tempo": 43.34,
+      "faixa": 0
+    },
+    {
+      "tempo": 43.92,
+      "faixa": 2
+    },
+    {
+      "tempo": 44.5,
+      "faixa": 1
+    },
+    {
+      "tempo": 44.5,
+      "faixa": 0
+    },
+    {
+      "tempo": 45.08,
+      "faixa": 1
+    },
+    {
+      "tempo": 45.66,
+      "faixa": 0
+    },
+    {
+      "tempo": 46.24,
+      "faixa": 2
+    },
+    {
+      "tempo": 46.24,
+      "faixa": 0
+    },
+    {
+      "tempo": 46.82,
+      "faixa": 1
+    },
+    {
+      "tempo": 47.4,
+      "faixa": 0
+    },
+    {
+      "tempo": 47.98,
+      "faixa": 1
+    },
+    {
+      "tempo": 48.2,
+      "faixa": 0
+    },
+    {
+      "tempo": 48.56,
+      "faixa": 2
+    },
+    {
+      "tempo": 49.14,
+      "faixa": 1
+    },
+    {
+      "tempo": 49.14,
+      "faixa": 0
+    },
+    {
+      "tempo": 49.72,
+      "faixa": 0
+    },
+    {
+      "tempo": 50.3,
+      "faixa": 2
+    },
+    {
+      "tempo": 50.88,
+      "faixa": 0
+    },
+    {
+      "tempo": 50.88,
+      "faixa": 1
+    },
+    {
+      "tempo": 51.46,
+      "faixa": 1
+    },
+    {
+      "tempo": 52.04,
+      "faixa": 2
+    },
+    {
+      "tempo": 52.62,
+      "faixa": 0
+    },
+    {
+      "tempo": 53.2,
+      "faixa": 2
+    },
+    {
+      "tempo": 53.78,
+      "faixa": 1
+    },
+    {
+      "tempo": 53.78,
+      "faixa": 0
+    },
+    {
+      "tempo": 54.36,
+      "faixa": 1
+    },
+    {
+      "tempo": 54.94,
+      "faixa": 0
+    },
+    {
+      "tempo": 55.16,
+      "faixa": 2
+    },
+    {
+      "tempo": 55.52,
+      "faixa": 2
+    },
+    {
+      "tempo": 55.52,
+      "faixa": 0
+    },
+    {
+      "tempo": 56.1,
+      "faixa": 1
+    },
+    {
+      "tempo": 56.68,
+      "faixa": 0
+    },
+    {
+      "tempo": 57.26,
+      "faixa": 1
+    },
+    {
+      "tempo": 57.84,
+      "faixa": 2
+    },
+    {
+      "tempo": 58.42,
+      "faixa": 1
+    },
+    {
+      "tempo": 58.42,
+      "faixa": 0
+    },
+    {
+      "tempo": 59.0,
+      "faixa": 0
+    },
+    {
+      "tempo": 59.58,
+      "faixa": 2
+    }
+  ]
+}

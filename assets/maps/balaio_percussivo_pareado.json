@@ -1,0 +1,1742 @@
+{
+  "id": "balaio",
+  "nome": "Balaio de Café",
+  "arquivo": "assets/music/balaio_de_cafe.ogg",
+  "offset": 0.0,
+  "ferramenta": "librosa",
+  "variante": "percussivo_pareado",
+  "bpm_estimado": 76.0,
+  "duracao": 143.752,
+  "notas": [
+    {
+      "tempo": 3.32,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 3.54,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 4.098,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 4.318,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 4.876,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 5.096,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 5.642,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 5.862,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 6.42,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 6.64,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 7.198,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 7.418,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 7.999,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 8.219,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 8.789,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 9.009,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 9.578,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 9.798,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 10.379,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 10.599,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 11.146,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 11.366,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 11.935,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 12.155,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 12.713,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 12.933,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 13.502,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 13.722,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 14.28,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 14.5,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 15.058,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 15.278,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 15.848,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 16.068,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 16.637,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 16.857,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 17.415,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 17.635,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 18.216,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 18.436,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 19.006,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 19.226,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 19.783,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 20.003,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 20.573,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 20.793,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 21.362,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 21.582,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 22.152,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 22.372,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 22.93,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 23.15,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 23.708,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 23.928,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 24.497,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 24.717,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 25.298,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 25.518,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 26.076,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 26.296,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 26.854,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 27.074,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 27.632,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 27.852,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 28.421,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 28.641,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 29.199,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 29.419,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 29.977,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 30.197,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 30.766,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 30.986,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 31.544,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 31.764,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 32.322,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 32.542,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 33.112,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 33.332,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 33.89,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 34.11,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 34.667,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 34.887,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 35.445,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 35.665,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 36.223,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 36.443,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 36.989,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 37.209,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 37.767,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 37.987,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 38.557,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 38.777,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 39.346,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 39.566,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 40.136,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 40.356,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 40.914,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 41.134,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 41.691,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 41.911,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 42.469,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 42.689,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 43.27,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 43.49,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 44.048,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 44.268,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 44.838,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 45.058,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 45.616,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 45.836,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 46.393,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 46.613,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 47.206,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 47.426,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 47.984,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 48.204,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 48.762,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 48.982,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 49.54,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 49.76,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 50.318,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 50.538,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 51.107,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 51.327,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 51.897,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 52.117,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 52.663,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 52.883,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 53.452,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 53.672,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 54.242,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 54.462,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 55.008,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 55.228,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 55.809,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 56.029,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 56.599,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 56.819,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 57.377,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 57.597,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 58.166,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 58.386,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 58.944,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 59.164,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 59.722,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 59.942,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 60.511,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 60.731,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 61.289,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 61.509,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 62.09,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 62.31,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 62.891,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 63.111,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 63.658,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 63.878,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 64.447,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 64.667,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 65.225,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 65.445,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 66.026,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 66.246,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 66.792,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 67.012,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 67.558,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 67.778,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 68.371,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 68.591,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 69.161,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 69.381,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 69.939,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 70.159,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 70.716,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 70.936,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 71.517,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 71.737,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 72.33,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 72.55,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 73.096,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 73.316,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 73.874,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 74.094,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 74.675,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 74.895,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 75.476,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 75.696,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 76.254,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 76.474,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 77.032,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 77.252,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 77.81,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 78.03,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 78.611,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 78.831,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 79.377,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 79.597,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 80.155,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 80.375,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 80.956,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 81.176,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 81.734,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 81.954,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 82.512,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 82.732,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 83.278,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 83.498,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 84.068,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 84.288,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 84.881,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 85.101,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 85.647,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 85.867,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 86.436,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 86.656,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 87.203,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 87.423,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 87.992,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 88.212,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 88.781,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 89.001,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 89.559,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 89.779,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 90.349,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 90.569,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 91.138,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 91.358,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 91.916,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 92.136,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 92.694,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 92.914,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 93.495,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 93.715,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 94.273,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 94.493,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 95.051,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 95.271,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 95.829,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 96.049,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 96.618,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 96.838,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 97.419,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 97.639,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 98.197,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 98.417,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 98.987,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 99.207,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 99.765,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 99.985,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 100.554,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 100.774,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 101.355,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 101.575,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 102.145,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 102.365,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 102.911,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 103.131,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 103.724,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 103.944,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 104.49,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 104.71,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 105.279,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 105.499,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 106.057,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 106.277,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 106.858,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 107.078,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 107.636,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 107.856,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 108.414,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 108.634,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 109.192,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 109.412,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 109.97,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 110.19,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 110.759,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 110.979,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 111.537,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 111.757,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 112.315,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 112.535,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 113.139,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 113.359,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 113.894,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 114.114,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 114.672,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 114.892,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 115.461,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 115.681,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 116.251,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 116.471,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 117.029,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 117.249,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 117.806,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 118.026,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 118.619,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 118.839,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 119.385,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 119.605,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 120.175,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 120.395,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 120.964,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 121.184,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 121.754,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 121.974,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 122.567,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 122.787,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 123.344,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 123.564,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 124.122,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 124.342,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 124.923,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 125.143,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 125.724,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 125.944,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 126.526,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 126.746,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 127.28,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 127.5,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 128.058,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 128.278,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 128.848,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 129.068,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 129.614,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 129.834,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 130.403,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 130.623,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 131.181,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 131.401,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 131.971,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 132.191,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 132.76,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 132.98,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 133.55,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 133.77,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 134.304,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 134.524,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 135.117,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 135.337,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 135.895,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 136.115,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 136.696,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 136.916,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    },
+    {
+      "tempo": 137.474,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 137.694,
+      "faixa": 2,
+      "origem": "beat_par_atabaque"
+    },
+    {
+      "tempo": 138.275,
+      "faixa": 0,
+      "origem": "beat_par_berimbau"
+    },
+    {
+      "tempo": 138.495,
+      "faixa": 1,
+      "origem": "beat_par_pandeiro"
+    }
+  ]
+}

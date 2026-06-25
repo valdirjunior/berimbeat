@@ -1,0 +1,919 @@
+{
+  "id": "balaio",
+  "nome": "Balaio de Café",
+  "arquivo": "assets/music/balaio_de_cafe.ogg",
+  "offset": 0.0,
+  "bpm_estimado": 76.0,
+  "duracao": 143.752,
+  "notas": [
+    {
+      "tempo": 1.091,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 1.776,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 2.543,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 3.32,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 4.098,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 4.876,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 5.642,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 6.42,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 7.21,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 7.999,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 8.8,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 9.59,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 10.379,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 11.146,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 11.947,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 12.725,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 13.514,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 14.292,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 15.07,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 15.848,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 16.637,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 17.427,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 18.216,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 19.006,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 19.795,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 20.573,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 21.362,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 22.152,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 22.941,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 23.719,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 24.509,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 25.298,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 26.076,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 26.854,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 27.643,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 28.433,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 29.211,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 29.756,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.656
+    },
+    {
+      "tempo": 29.989,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 30.766,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 31.544,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 32.334,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 33.112,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 33.89,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 34.667,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 35.445,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 36.235,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 37.001,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 37.767,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 38.557,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 39.346,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 40.136,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 40.925,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 41.691,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 42.481,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 43.27,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 44.06,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 44.408,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.632
+    },
+    {
+      "tempo": 44.838,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 45.627,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 46.405,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 47.218,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 47.984,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 48.762,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 49.54,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 50.329,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 51.107,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 51.908,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 52.674,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 53.452,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 54.242,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 55.02,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 55.809,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 56.599,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 57.388,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 58.166,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 58.944,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 59.733,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 60.511,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 61.301,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 62.09,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 62.891,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 63.658,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 64.459,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 65.236,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 66.026,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 66.804,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 67.57,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 68.383,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 69.161,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 69.95,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 70.728,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 71.529,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 72.33,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 73.108,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 73.886,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 74.675,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 75.488,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 76.254,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 77.032,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 77.822,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 78.623,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 79.389,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 80.167,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 80.956,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 81.734,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 82.512,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 83.278,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 83.87,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 84.451,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 85.24,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 85.647,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.628
+    },
+    {
+      "tempo": 86.03,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 86.796,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 87.586,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 88.375,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 89.153,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 89.931,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 90.72,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 91.51,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 92.288,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 93.077,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 93.855,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 94.273,
+      "faixa": 1,
+      "origem": "onset",
+      "forca": 0.602
+    },
+    {
+      "tempo": 94.645,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 95.248,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 95.84,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 96.618,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 97.431,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 98.197,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 98.998,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 99.765,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 100.554,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 101.355,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 102.145,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 102.922,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 103.724,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 104.49,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 105.279,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 106.069,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 106.858,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 107.636,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 108.426,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 109.203,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 109.981,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 110.759,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 111.549,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 112.327,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 113.139,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 113.894,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 114.683,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 115.461,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 116.251,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 117.029,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 117.818,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 118.619,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 119.397,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 120.186,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 120.976,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 121.765,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 122.567,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 123.344,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 124.134,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 124.923,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 125.736,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 126.526,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 127.28,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 128.058,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 128.848,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 129.625,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 130.403,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 131.193,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 131.982,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 132.772,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 133.55,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 134.304,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 135.129,
+      "faixa": 2,
+      "origem": "beat"
+    },
+    {
+      "tempo": 135.895,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 136.696,
+      "faixa": 1,
+      "origem": "beat"
+    },
+    {
+      "tempo": 137.485,
+      "faixa": 0,
+      "origem": "beat"
+    },
+    {
+      "tempo": 138.286,
+      "faixa": 1,
+      "origem": "beat"
+    }
+  ]
+}

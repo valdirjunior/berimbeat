@@ -1,0 +1,1803 @@
+{
+  "id": "balaio",
+  "nome": "Balaio de Café",
+  "arquivo": "assets/music/balaio_de_cafe.ogg",
+  "offset": 0.0,
+  "ferramenta": "bpm_fixo",
+  "variante": "bpm76_pareado",
+  "bpm": 76.0,
+  "inicio_jogavel": 2.8,
+  "duracao": 143.752,
+  "notas": [
+    {
+      "tempo": 2.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 3.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 3.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 3.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 4.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 4.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 5.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 5.408,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 5.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 6.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 6.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 6.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 7.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 7.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 8.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 8.566,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 9.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 9.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 9.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 10.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 10.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 10.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 11.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 11.724,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 12.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 12.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 13.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 13.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 13.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 14.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 14.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 14.882,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 15.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 15.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 16.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 16.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 17.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 17.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 17.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 18.04,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 18.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 18.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 19.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 19.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 20.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 20.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 20.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 21.198,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 21.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 21.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 22.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 22.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 23.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 23.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 24.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 24.356,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 24.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 25.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 25.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 25.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 26.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 26.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 27.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 27.514,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 28.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 28.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 28.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 29.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 29.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 29.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 30.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 30.672,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 31.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 31.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 32.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 32.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 32.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 33.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 33.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 33.829,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 34.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 34.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 35.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 35.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 35.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 36.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 36.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 36.987,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 37.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 37.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 38.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 38.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 39.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 39.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 39.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 40.145,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 40.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 40.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 41.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 41.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 42.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 42.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 43.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 43.303,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 43.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 44.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 44.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 44.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 45.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 45.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 46.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 46.461,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 47.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 47.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 47.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 48.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 48.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 48.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 49.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 49.619,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 50.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 50.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 50.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 51.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 51.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 51.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 52.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 52.777,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 53.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 53.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 54.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 54.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 54.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 55.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 55.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 55.935,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 56.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 56.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 57.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 57.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 58.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 58.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 58.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 59.093,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 59.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 59.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 60.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 60.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 61.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 61.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 62.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 62.251,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 62.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 63.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 63.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 63.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 64.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 64.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 65.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 65.408,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 65.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 66.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 66.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 66.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 67.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 67.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 68.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 68.566,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 69.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 69.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 69.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 70.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 70.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 70.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 71.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 71.724,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 72.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 72.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 73.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 73.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 73.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 74.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 74.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 74.882,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 75.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 75.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 76.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 76.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 77.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 77.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 77.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 78.04,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 78.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 78.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 79.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 79.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 80.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 80.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 80.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 81.198,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 81.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 81.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 82.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 82.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 83.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 83.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 84.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 84.356,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 84.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 85.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 85.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 85.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 86.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 86.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 87.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 87.514,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 88.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 88.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 88.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 89.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 89.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 89.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 90.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 90.672,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 91.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 91.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 92.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 92.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 92.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 93.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 93.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 93.829,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 94.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 94.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 95.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 95.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 95.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 96.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 96.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 96.987,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 97.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 97.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 98.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 98.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 99.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 99.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 99.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 100.145,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 100.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 100.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 101.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 101.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 102.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 102.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 103.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 103.303,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 103.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 104.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 104.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 104.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 105.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 105.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 106.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 106.461,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 107.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 107.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 107.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 108.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 108.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 108.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 109.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 109.619,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 110.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 110.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 110.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 111.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 111.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 111.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 112.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 112.777,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 113.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 113.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 114.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 114.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 114.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 115.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 115.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 115.935,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 116.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 116.724,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 117.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 117.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 118.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 118.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 118.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 119.093,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 119.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 119.882,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 120.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 120.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 121.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 121.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 122.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 122.251,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 122.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 123.04,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 123.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 123.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 124.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 124.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 125.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 125.408,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 125.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 126.198,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 126.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 126.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 127.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 127.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 128.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 128.566,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 129.116,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 129.356,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 129.905,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 130.145,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 130.695,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 130.935,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 131.484,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 131.724,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 132.274,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 132.514,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 133.063,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 133.303,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 133.853,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 134.093,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 134.642,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 134.882,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 135.432,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 135.672,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 136.221,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 136.461,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 137.011,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 137.251,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 137.8,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 138.04,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 138.589,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 138.829,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 139.379,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 139.619,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 140.168,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 140.408,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 140.958,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 141.198,
+      "faixa": 2,
+      "origem": "bpm76_atabaque"
+    },
+    {
+      "tempo": 141.747,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 141.987,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 142.537,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 142.777,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    },
+    {
+      "tempo": 143.326,
+      "faixa": 0,
+      "origem": "bpm76_berimbau"
+    },
+    {
+      "tempo": 143.566,
+      "faixa": 1,
+      "origem": "bpm76_pandeiro"
+    }
+  ]
+}
